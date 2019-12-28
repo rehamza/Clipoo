@@ -27,7 +27,7 @@ class App extends Component {
 
    <Header as='h2'>
        <Icon name='users' />
-       <Header.Content>Reactivities</Header.Content>
+       <Header.Content>Clipoo</Header.Content>
     </Header>
 
   <List>
